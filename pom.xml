@@ -63,6 +63,22 @@
                 <picUrl>https://avatars.githubusercontent.com/u/44314228?s=460&u=43bb83f6b37eec727e5ff7df3f286e752856b4c3&v=4</picUrl>
             </properties>
         </developer>
+        <developer>
+            <id>jesrivgal</id>
+            <name>Jesus Antonio Rivero Gallardo</name>
+            <email>jesrivgal@alum.us.es</email>
+            <url>https://github.com/Jesus-RG</url>
+            <organization>XLStudios </organization>
+            <organizationUrl>xlstudios.eu</organizationUrl>
+            <roles>
+                <role>Student</role>
+                <role>Developer</role>
+            </roles>
+            <timezone>Madrid</timezone>
+            <properties>
+                <picUrl>https://avatars.githubusercontent.com/u/62039986?s=400&u=87b04d600ebff196e866902af7331d84882129f4&v=4</picUrl>
+            </properties>
+        </developer>
 
     </developers>
 
