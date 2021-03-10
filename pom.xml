@@ -47,6 +47,22 @@
                 <picUrl>https://avatars.githubusercontent.com/u/44265874?s=460&v=4</picUrl>
             </properties>
         </developer>
+        <developer>
+            <id>javvilmay</id>
+            <name>Javier Vilariño Mayo</name>
+            <email>javvilmay@alum.us.es</email>
+            <url>https://github.com/javivm17</url>
+            <organization>XLStudios </organization>
+            <organizationUrl>xlstudios.eu</organizationUrl>
+            <roles>
+                <role>Student</role>
+                <role>Developer</role>
+            </roles>
+            <timezone>Madrid</timezone>
+            <properties>
+                <picUrl>https://avatars.githubusercontent.com/u/44314228?s=460&u=43bb83f6b37eec727e5ff7df3f286e752856b4c3&v=4</picUrl>
+            </properties>
+        </developer>
 
     </developers>
 
